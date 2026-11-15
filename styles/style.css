@@ -84,7 +84,8 @@
 
 .header__logo {
   display: block;
-  width: 148px;
+  width: 135px;
+  line-height: 0;
 }
 
 .header__address {
